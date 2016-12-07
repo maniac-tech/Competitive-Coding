@@ -17,4 +17,4 @@ class LifeUniverseEverything
 				break;
 		}
 	}
-} 
+}
