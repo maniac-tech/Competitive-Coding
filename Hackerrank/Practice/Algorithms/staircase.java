@@ -1,5 +1,5 @@
 import java.io.*;
-public class sol{
+public class staircase{
 	public static void main(String args[])throws IOException{
 		BufferedReader obj = new BufferedReader(new InputStreamReader(System.in));
 		int n=Integer.parseInt(obj.readLine());
